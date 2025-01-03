@@ -1,3 +1,6 @@
 # demo1-repo-webpage
 this is my first repo for a mini project
-hello world
+javascript code
+```javascript
+console.log("hello world");
+```
